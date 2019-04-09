@@ -7,3 +7,7 @@ This repository contains the lecture slides and assginments of the Coursera onli
 - **Week 1 --- Welcome**
 
 From the course: "Clustering and retrieval are some of the most high-impact machine learning tools out there. Retrieval is used in almost every applications and device we interact with, like in providing a set of products related to one a shopper is currently considering, or a list of people you might want to connect with on a social media platform. Clustering can be used to aid retrieval, but is a more broadly useful tool for automatically discovering structure in data, like uncovering groups of similar patients."
+
+  [Slides](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/intro.pdf)
+  
+  [No Programming Assignment]
