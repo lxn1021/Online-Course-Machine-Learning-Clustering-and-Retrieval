@@ -18,8 +18,10 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   From the course: "A retrieval task of fetching a document similar to one someone is currently reading."
   
    [Slides](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/retrieval-intro-annotated.pdf)
+   
+   [Programming Assignment 1]
  
-   [Programming Assignment]()
+   [Programming Assignment 2](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/LSH.ipynb)
   
      
     
