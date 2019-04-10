@@ -16,6 +16,7 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   - **Week 2 --- Nearest Neighbor Search**
   
   From the course: "A retrieval task of fetching a document similar to one someone is currently reading."
-    [Slides]()
+  
+     
     
    
