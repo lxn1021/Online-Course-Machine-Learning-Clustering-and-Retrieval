@@ -11,3 +11,11 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   [Slides](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/intro.pdf)
   
   [No Programming Assignment]
+  
+  
+  - **Week 2 --- Nearest Neighbor Search**
+  
+  From the course: "A retrieval task of fetching a document similar to one someone is currently reading."
+    [Slides]()
+    
+   
