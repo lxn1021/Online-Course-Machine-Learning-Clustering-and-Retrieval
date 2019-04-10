@@ -19,7 +19,7 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
    [Slides]()
    ```
-   ```
+   
    [Programming Assignment]()
   
      
