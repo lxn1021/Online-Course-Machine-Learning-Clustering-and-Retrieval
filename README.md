@@ -17,7 +17,10 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   From the course: "A retrieval task of fetching a document similar to one someone is currently reading."
   
-    [Slides]()
+   [Slides]()
+   ```
+   ```
+   [Programming Assignment]()
   
      
     
