@@ -24,6 +24,11 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
    [Programming Assignment 1](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/NN.ipynb)
  
    [Programming Assignment 2](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/LSH.ipynb)
+   
+   
+  - **Week 3 --- Clustering with k-means**
+  
+  From the course: "In clustering, our goal is to group the datapoints in our dataset into disjoint sets."
   
      
     
