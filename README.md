@@ -30,6 +30,9 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   From the course: "In clustering, our goal is to group the datapoints in our dataset into disjoint sets."
   
+   [Slides]()
+   
+   [Programming Assignment]()
      
     
    
