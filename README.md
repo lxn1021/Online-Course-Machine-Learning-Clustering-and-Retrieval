@@ -32,7 +32,7 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
    [Slides](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/kmeans-annotated.pdf)
    
-   [Programming Assignment]
+   [Programming Assignment](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/Kmeans.ipynb)
      
     
    
