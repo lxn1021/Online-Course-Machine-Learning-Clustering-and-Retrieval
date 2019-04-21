@@ -41,7 +41,9 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   [Slides](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/mixmodel-EM-annotated.pdf)
   
-  [Programming Assignment 1]()
+  [Programming Assignment 1](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/EM_1.ipynb)
+  
+  [Programming Assignment 2 (In progress...)]
   
   **memo:** Later should learn the following stuff in greater details: 1) The computation of "outer product"; 2) the computation of covariances; 3) contour plots; 4) get more comfortable with image data; 5) different kinds of distributions in statistics (maybe an online course needed)
 
