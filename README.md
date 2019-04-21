@@ -3,7 +3,7 @@
 
 This repository contains the lecture slides and assginments of the Coursera online course, Machine Learning (Clustering and Retrieval), provided by University of Washington, Seattle (https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome). The assignments are implemented in Python Graphlab.
 
-**Note:** The "Programming Assignment" coding framework is provided by the course, and only a few slots were inserted by students. As the professors clarified at the start, this course is by no means a programming course. I believe its main purpose is to get new starters like me an intuition of an algorithm's logic, the advantages and disadvantages of an algorithm, and when and where to use it. At this very stage, I'm still incapable of independently implementing the logics. Most of the time I just follow the codes from the course to figure them out. But once I familiarize myself with them later, I will try to interpret and implement all these algorithms independently.
+**Note:** The "Programming Assignment" coding framework is provided by the course, and only a few slots were inserted by students. As the professors clarified at the start, this course is by no means a programming course. I believe its main purpose is to get new starters like me an intuition of how an algorithm works, the advantages and disadvantages of an algorithm, and when and where to use it. At this very stage, I'm still incapable of independently implementing most of the algorithms. Most of the time I just follow the codes from the course to figure out their working logics. But once I familiarize myself with them later, I will try to interpret and implement them all by myself.
 
 
 - **Week 1 --- Welcome**
@@ -45,7 +45,7 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   [Programming Assignment 2 (In progress...)]
   
-  **memo:** Later should learn the following stuff in greater details: 1) The computation of "outer product"; 2) the computation of covariances; 3) contour plots; 4) get more comfortable with image data; 5) different kinds of distributions in statistics (maybe an online course needed)
+  **Memo:** Later should learn the following stuff in greater details: 1) The computation of "outer product"; 2) the computation of covariances; 3) contour plots; 4) get more comfortable with image data; 5) different kinds of statistical distributions (maybe an online course will be needed)
 
      
     
