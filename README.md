@@ -39,7 +39,12 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   From the course: "In k-means, observations are each hard-assigned to a single cluster, and these assignments are based just on the      cluster centers, rather than also incorporating shape information. In our second module on clustering, you will perform probabilistic model-based clustering that provides (1) a more descriptive notion of a "cluster" and (2) accounts for uncertainty in assignments of datapoints to clusters via "soft assignments". "
   
-  [Slides]()
+  [Slides](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/mixmodel-EM-annotated.pdf)
+  
+  [Programming Assignment 1]()
+  
+  **memo: Later should learn the following stuff in greater details: 1) The computation of "outer product"; 2) the computation of covariances; 3) contour plots; 4) get more comfortable with image data; 5) different kinds of distributions in statistics (maybe an online course needed)**
+
      
     
    
