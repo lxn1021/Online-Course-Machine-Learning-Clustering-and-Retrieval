@@ -3,7 +3,7 @@
 
 This repository contains the lecture slides and assginments of the Coursera online course, Machine Learning (Clustering and Retrieval), provided by University of Washington, Seattle (https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome). The assignments are implemented in Python Graphlab.
 
-**Note:** The "Programming Assignment" coding framework is provided by the course, and only a few slots were inserted by students. As the professors clarified at the start, this course is by no means a programming course. I believe its main purpose is to get new starters like me an intuition of an algorithm's logic, the advantages and disadvantages of an algorithm, and when and where to use it. At this very stage, I'm still incapable of independently implementing the logics. Most of the time I just follow the codes from the course to figure them out. But once I familiarize myself with them later, I will implement the same assignments using Scikit-Learn (The course uses Graphlab).
+**Note:** The "Programming Assignment" coding framework is provided by the course, and only a few slots were inserted by students. As the professors clarified at the start, this course is by no means a programming course. I believe its main purpose is to get new starters like me an intuition of an algorithm's logic, the advantages and disadvantages of an algorithm, and when and where to use it. At this very stage, I'm still incapable of independently implementing the logics. Most of the time I just follow the codes from the course to figure them out. But once I familiarize myself with them later, I will try to interpret and implement all these algorithms independently.
 
 
 - **Week 1 --- Welcome**
