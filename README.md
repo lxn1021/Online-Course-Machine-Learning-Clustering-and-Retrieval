@@ -43,9 +43,16 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   [Programming Assignment 1](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/EM_1.ipynb)
   
-  [Programming Assignment 2 (In progress...)]
+  [Programming Assignment 2](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/EM_2.ipynb)
   
   **Memo:** Later should learn the following stuff in greater details: 1) The computation of "outer product"; 2) the computation of covariances; 3) contour plots; 4) get more comfortable with image data; 5) different kinds of statistical distributions (maybe an online course will be needed)
+  
+  
+  - **Week 5 --- Mixed Membership Modeling via Latent Dirichlet Allocation**
+  
+  From the course: "The clustering model inherently assumes that data divide into disjoint sets, e.g., documents by topic. But, often our data objects are better described via memberships in a collection of sets, e.g., multiple topics. In our fourth module, you will explore latent Dirichlet allocation (LDA) as an example of such a mixed membership model particularly useful in document analysis."
+  
+  [In progress...]
 
      
     
