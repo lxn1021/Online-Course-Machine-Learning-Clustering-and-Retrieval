@@ -19,7 +19,7 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
    [Slides](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/retrieval-intro-annotated.pdf)
    
-   [Bullet Points 1 (in progress)]
+   [Bullet Points 1 (in progress...)]
    
    [Programming Assignment 1 --- Graphlab](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/NN.ipynb)
  
