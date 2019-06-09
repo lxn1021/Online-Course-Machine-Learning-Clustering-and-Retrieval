@@ -25,7 +25,9 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
  
    [Programming Assignment 2 --- Graphlab](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/LSH.ipynb)
    
-   [Programming Assignment 1 --- Sklearn/Pandas (in progress...)]
+   [Programming Assignment 1 --- Sklearn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/NN_DF.ipynb)
+   
+   [Programming Assignment 2 --- Sklearn/Pandas (in progress...)]
    
    
   - **Week 3 --- Clustering with k-means**
