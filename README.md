@@ -19,13 +19,11 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
    [Slides](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/retrieval-intro-annotated.pdf)
    
-   [Bullet Points 1](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/bullet%20points_week2.pdf)
+   [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/bullet%20points_week2.pdf)
    
    [Programming Assignment 1 --- Graphlab](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/NN.ipynb)
  
    [Programming Assignment 2 --- Graphlab](https://github.com/lxn1021/ML---Unsupervised-Learning/blob/master/LSH.ipynb)
-   
-   [Bullet Points 2 (In progress...)]
    
    [Programming Assignment 1 --- Sklearn/Pandas](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/NN_DF.ipynb)
    
