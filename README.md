@@ -53,6 +53,8 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
   [Slides](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/mixmodel-EM-annotated.pdf)
   
+  [Bullet Points (in progress...)]  
+  
   [Programming Assignment 1](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/EM_1.ipynb)
   
   [Programming Assignment 2](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/EM_2.ipynb)
