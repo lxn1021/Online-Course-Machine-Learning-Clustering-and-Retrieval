@@ -38,7 +38,11 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
   
    [Slides](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/kmeans-annotated.pdf)
    
-   [Programming Assignment](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/Kmeans.ipynb)
+   [Bullet Points](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/bullet%20points_week3.pdf)
+   
+   [Programming Assignment --- Graphlab](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/Kmeans.ipynb)
+   
+   [Programming Assignment --- Sklearn/Pandas (in progress...)]
    
    
   - **Week 4 --- Mixture Models**
