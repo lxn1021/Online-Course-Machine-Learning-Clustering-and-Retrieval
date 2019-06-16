@@ -44,6 +44,8 @@ From the course: "Clustering and retrieval are some of the most high-impact mach
    
    [Programming Assignment --- Sklearn/Pandas (in progress...)]
    
+   [Python Knowledge](https://github.com/lxn1021/Online-Course-Machine-Learning-Clustering-and-Retrieval/blob/master/Python_week3.pdf)
+   
    
   - **Week 4 --- Mixture Models**
   
